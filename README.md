@@ -42,45 +42,13 @@ pip install -i https://test.pypi.org/simple/ YOUR_PACKAGE
 ```
 
 If you've managed the installation, you may also want to try out the following tasks:
-* Generate a file consisting some fake web logs
-*
-* 
+* Generate a file consisting some fake web logs (log_generator.py)
+* Parse the generated logs and insert them into a local SQLite database (log_db_writer.py)
+* Count different visitor browsers ever since 30.Sep.2011
 
 
 ## Literature & Recommended Reading
 https://packaging.python.org/tutorials/packaging-projects/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
