@@ -30,6 +30,11 @@ setuptools.setup(
     # A list of all Python import packages that should be included in the Distribution Package.
     # find_packages() to automatically discover all packages and subpackages.
     packages=setuptools.find_packages(),
+    # Required package dependencies to be installed with
+    install_requires=[
+        "package_name_1", 
+        "package_name_2"
+    ],
     # Classifier gives the index and pip some additional metadata about your package
     classifiers=[
         "Programming Language :: Python :: 3",
