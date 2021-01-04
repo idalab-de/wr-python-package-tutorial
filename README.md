@@ -47,6 +47,10 @@ If you've managed the installation, you may also want to try out the following t
 * 
 
 
+## Literature & Recommended Reading
+https://packaging.python.org/tutorials/packaging-projects/
+
+
 
 
 
